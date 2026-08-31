@@ -1,4 +1,15 @@
-# Práctica Git y Java
+# Práctica Git y Java de Wilder Mauricio Peralta Ckacka          
+# Nro Carnet: 12846170
+
+## Completar:
+
+Java: java 21.0.3 2024-04-16 LTS
+
+Javac: javac 21.0.3
+
+Git: git version 2.46.0.windows.1
+
+Editor utilizado: Visual Code Studio
 
 ## Mi primer programa en Java
 
